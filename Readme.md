@@ -2,4 +2,7 @@
 
 # Grupo de estudio bajo la organización Frontend Café
 
+## Integrantes 
+
 ### Dani
+### Carlos Ferreira
