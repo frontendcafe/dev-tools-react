@@ -2,4 +2,9 @@
 
 # Grupo de estudio bajo la organización Frontend Café
 
-# Marcos NASA G
+## Integrantes 
+
+### Dani
+### Carlos Ferreira
+### Josue Pantoja
+### Marcos NASA G
