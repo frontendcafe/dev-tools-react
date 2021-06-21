@@ -2,4 +2,10 @@
 
 # Grupo de estudio bajo la organización Frontend Café
 
-# Maxi B.
+## Integrantes 
+
+### Dani
+### Carlos Ferreira
+### Josue Pantoja
+### Maxi B.
+### Marcos NASA G
