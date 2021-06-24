@@ -1,15 +1,15 @@
 # React Dev Tools
 
-## Members
+## Integrantes 
 
-- Josue
+- Dani
 - Carlos
-- Maxie
+- Josue
+- Maxi B.
+- Marcos
 - Nacho
 - Elisabeth
-- Marcos
 - Fran
 - Álex
 - Ale
 - Osky
-- Dani
