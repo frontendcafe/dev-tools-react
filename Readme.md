@@ -1,5 +1,15 @@
-## Dev-Tools-React
+# React Dev Tools
 
-# Grupo de estudio bajo la organización Frontend Café
+## Members
 
-# Marcos NASA G
+- Josue
+- Carlos
+- Maxie
+- Nacho
+- Elisabeth
+- Marcos
+- Fran
+- Álex
+- Ale
+- Osky
+- Dani
