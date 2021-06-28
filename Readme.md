@@ -1,11 +1,15 @@
-## Dev-Tools-React
-
-# Grupo de estudio bajo la organización Frontend Café
+# React Dev Tools
 
 ## Integrantes 
 
-### Dani
-### Carlos Ferreira
-### Josue Pantoja
-### Maxi B.
-### Marcos NASA G
+- Dani
+- Carlos
+- Josue
+- Maxi B.
+- Marcos
+- Nacho
+- Elisabeth
+- Fran
+- Álex
+- Ale
+- Osky
